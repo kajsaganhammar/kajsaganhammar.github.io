@@ -16,7 +16,7 @@ author:
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
-  googlescholar    :  <a href="https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ" target="_blank"a>
+  googlescholar    :  href="https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ" target="_blank"
 
   # Social media
   linkedin         : "kajsaganhammar"
