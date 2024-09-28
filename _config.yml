@@ -24,7 +24,7 @@ author:
   avatar           : "KG.JPG"
   name             : "Kajsa Ganhammar"
   pronouns         : # example: "she/her"  
-  location         : "Lund University, Sweden"
+  employer         : "Lund University, Sweden"
   uri              : # URL
   email            : "kajsa.ganhammar@nek.lu.se" 
 
@@ -43,7 +43,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : # "kajsaganhammar"
+  linkedin         : "kajsaganhammar"
 
 
 # Publication Category - The following the list of publication categories and their headings
