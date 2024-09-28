@@ -12,7 +12,7 @@ author:
   avatar           : "KG.JPG"
   name             : "Kajsa Ganhammar"
   
-  employer         :  "<a href='https://portal.research.lu.se/sv/persons/kajsa-ganhammar' target='_blank'>Lund University, Sweden</a>"
+  employer         :  "href='https://portal.research.lu.se/sv/persons/kajsa-ganhammar' target='_blank'>Lund University"
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
