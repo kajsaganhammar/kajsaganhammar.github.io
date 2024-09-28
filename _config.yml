@@ -1,13 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+
 
 # Basic Site Settings
-locale                   : "en-US"
 title                    : "Kajsa Ganhammar"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,9 +16,7 @@ author:
   # Biographic information
   avatar           : "KG.JPG"
   name             : "Kajsa Ganhammar"
-  pronouns         : # example: "she/her"  
-  employer         : "Lund University, Sweden"
-  uri              : # URL
+  employer         : "Lund University, Sweden" # vore bra om det går att länka hit https://portal.research.lu.se/sv/persons/kajsa-ganhammar
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
