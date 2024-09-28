@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Lund University in Sweden. My research interests ... 
-
-I have MSc in Economics from Lund University and double BSc in  
+I am a PhD Candidate in Economics at Lund University in Sweden. I am also affiliated to the Reserach Institute of Industrial Economics. 
 
 
