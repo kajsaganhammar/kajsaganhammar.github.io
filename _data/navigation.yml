@@ -6,19 +6,15 @@
 
 main:
 
- - title: "About"
-    url: /   
-    external: false
-    
   - title: "Research"
     url: /publications/
-    external: false
+    
     
   - title: "Teaching"
     url: /teaching/    
-    external: false
+   
     
   - title: "CV"
     url: /cv/
-    external: false
+  
 
