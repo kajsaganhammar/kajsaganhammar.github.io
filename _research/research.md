@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "Research"
-permalink: /research/
+permalink: /
 author_profile: true
-redirect_from:
-  - /research
+redirect_from: 
+  - /about/
 ---
 
 ## Work in progress 
