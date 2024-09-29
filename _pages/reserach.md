@@ -34,7 +34,7 @@ permalink: /research/
 *Energy Economics,* vol. 158, 2021
 
 <details>
-  <summary>▶ Abstract </summary> 
+  <summary> Abstract </summary> 
 
 <small>European Commission favours market-based support policies, such as markets for tradable green certificates, to promote renewable energy. Meanwhile, these instruments have received critique for exposing investors to large price risk as the level of support is determined by the market price of certificates. Using a two-step procedure, this study builds upon the work of Fagiani and Hakvoort (2014) by firstly examining how regulatory interventions in the Swedish-Norwegian certificate market affect price volatility, focusing particularly on the period after Norway joined in 2012. The results show that interventions in the market exacerbate price risk by resulting in regimes of increased volatility. They indicate that, contrary to policymakers expectation, prices did not stabilise after the market integration with Norway. Employing a real options approach, the study further proceeds to demonstrate that price risk increases the threshold for immediate development of Swedish wind power projects; a one standard deviation increase in certificate price volatility is estimated to reduce the probability of project development by 12%. These findings illustrate that regulatory uncertainty in terms of high price volatility disrupts the investment climate in certificate markets, ultimately affecting cost-effectiveness of such policy.</small>
 
