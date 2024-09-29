@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my <a href="https://drive.google.com/file/d/1AmxA7gdlaCN0b4LKQ-Ffd8GErgbbkg-I/view?usp=sharing" target="_blank">CV</a>.
+Here is a link to my <a href="https://drive.google.com/file/d/1AmxA7gdlaCN0b4LKQ-Ffd8GErgbbkg-I/view?usp=sharing" target="_blank">CV</a>
