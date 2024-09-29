@@ -12,11 +12,11 @@ author:
   avatar           : "KG.JPG"
   name             : "Kajsa Ganhammar"
   
-  employer         :  "<a href='https://portal.research.lu.se/sv/persons/kajsa-ganhammar' target='_blank'>Lund University</a>"
+  employer         :  "Lund University"
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
-  googlescholar    :  "href='https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ' target='_blank'"
+  googlescholar    :  "<a href='https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ' target='_blank'a>"
 
   # Social media
   linkedin         : "kajsaganhammar" target='_blank'
