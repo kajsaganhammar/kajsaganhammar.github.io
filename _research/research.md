@@ -8,25 +8,25 @@ redirect_from:
 
 # Work in progress
 
-## <a href='https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link' target='_blank'>Bidding Behaviour in interdependent markets for electricity and green certificates *(Job Market Paper - Revise & Resubmit at Energy Economics)*</a>
+### <a href='https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link' target='_blank'>Bidding Behaviour in interdependent markets for electricity and green certificates *(Job Market Paper - Revise & Resubmit at Energy Economics)*</a>
 
 <details>
-  <summary>▶ Abstract </summary> 
+  <summary> Abstract </summary> 
 
  Market-based climate policies have received increased attention, making it important to understand how such politically created markets affect competition in the electricity market. This paper focuses on the green certificate policy which financially supports producers of renewably sourced electricity by means of tradable certificates, and develops a simple duopoly model that incorporates both the electricity and the green certificate markets in an auction-based setting. The results suggest that, in case the subsidised technology has a higher expected marginal cost than the conventional technology, the policy can improve competition and efficiency in the electricity market. Conversely, if producers are ex-ante symmetric in their marginal costs, the advantage the policy creates enables the subsidised producer to bid higher at given cost as the probability of winning the electricity auction increases. This is harmful for competition and results in high consumer prices of electricity.
 
 </details>
 
-## Search frictions in markets where sellers offer sealed-bid auctions *(draft coming soon)*
+### Search frictions in markets where sellers offer sealed-bid auctions *(draft coming soon)*
 <details>
-  <summary>▶ Abstract </summary> 
+  <summary> Abstract </summary> 
 
  Despite empirical evidence of price dispersion, there is limited research on the role of search frictions in competing auction markets. This paper incorporates search into a stylised model where two sellers post auctions to sell a homogeneous good. Buyers are aware of the location of one of the sellers and can choose to engage in costly search to locate the other before the auctions take place. I find that such friction leads to price dispersion because only buyers with valuations above a certain threshold are willing to engage in costly search. A simulation study also shows that those that search and win the 'low-visibility' auction are better off than the non-searchers that win the 'high-visibility' auction. However, on aggregate, when including those for which search does not pay off ex-post (i.e, they lose the auction), searching buyers are the losers. This demonstrates the welfare losses associated with search frictions in sealed-bid auction markets. Furthermore, due to buyers inability to coordinate their search decisions, the only equilibrium involves buyers above the threshold randomising between auctions, which makes an inefficient market outcome probable.
 
 </details>
 
 # Publications 
-## <a href='https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub' target='_blank'>The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market. *Energy Economics,* vol. 158, 2021</a>
+### <a href='https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub' target='_blank'>The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market. *Energy Economics,* vol. 158, 2021</a>
 
 <details>
   <summary>▶ Abstract </summary> 
