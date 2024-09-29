@@ -31,7 +31,7 @@ permalink: /research/
 
 ### <a href='https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub' target='_blank'>The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market.</a>
 
-*Energy Economics,* vol. 158, 2021
+*Energy Policy,* vol. 158, 2021
 
 <details>
   <summary> Abstract </summary> 
