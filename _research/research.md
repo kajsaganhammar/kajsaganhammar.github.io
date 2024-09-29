@@ -1,9 +1,10 @@
 ---
-permalink: /
+layout: pages
+title: ""
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html 
+redirect_from:
+  - /research
 ---
 
 # Work in progress
