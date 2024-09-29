@@ -11,15 +11,15 @@ author:
   # Biographic information
   avatar           : "KG.JPG"
   name             : "Kajsa Ganhammar"
-  
+  bio              : "PhD Candidate in Economics"
   employer         :  "Lund University"
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
-  googlescholar    :  "<a href='https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ' target='_blank'a>"
+  googlescholar    :  "https://scholar.google.com/citations?hl=sv&user=IiQDHJ8AAAAJ"
 
   # Social media
-  linkedin         : "kajsaganhammar" target='_blank'
+  linkedin         : "kajsaganhammar"
 
 
 # Publication Category - The following the list of publication categories and their headings
