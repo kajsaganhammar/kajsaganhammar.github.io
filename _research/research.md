@@ -1,7 +1,7 @@
 
+layout: page
 title: 
-collection: research
-
+permalink: /research/  
 
 # Work in progress
 
