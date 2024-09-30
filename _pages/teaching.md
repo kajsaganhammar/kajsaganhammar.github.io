@@ -9,5 +9,5 @@ permalink: /teaching/
 
 ### Undergraduate level
 • Basic Macroeconomics, 2021 - present
-
+<br>
 • Basic Microeconomics, 2021 - 2023
