@@ -5,7 +5,9 @@ permalink: /teaching/
 ---
 
 ### Graduate level 
-Advanced Microeconomic Analysis, 2022 - present
+• Advanced Microeconomic Analysis, 2022 - present
 
 ### Undergraduate level
-Basic Macro- & Microeconomics, 2021 - present
+• Basic Macroeconomics, 2021 - present
+
+• Basic Microeconomics, 2021 - 2023
