@@ -1,3 +1,8 @@
+
+.custom-text-color {
+    color: black; 
+}
+
 .custom-link {
-    color: black !important;
+    color: grey !important;
 }
