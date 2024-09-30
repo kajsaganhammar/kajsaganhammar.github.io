@@ -6,3 +6,7 @@
 .custom-link {
     color: darkblue !important;
 }
+
+a {
+    text-decoration: none; /* Removes the underline from links */
+}
