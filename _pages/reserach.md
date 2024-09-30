@@ -4,9 +4,8 @@ title: ""
 permalink: /research/
 ---
 
-## Work in progress 
-
-### <a href='https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link'>Bidding behaviour in interdependent markets for electricity and green certificates</a><span style="font-weight:normal;font-size:normal;"> [Job Market Paper]</span> 
+### Work in progress 
+<a href='https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link'>**Bidding behaviour in interdependent markets for electricity and green certificates** </a> [Job Market Paper]
 (R & R at *Energy Economics*)
 
 <details>
@@ -16,8 +15,7 @@ permalink: /research/
 
 </details>
 
-### Search frictions in markets where sellers offer sealed-bid auctions
-*(draft coming soon)*
+**Search frictions in markets where sellers offer sealed-bid auctions** *(draft coming soon)*
 <details>
   <summary> Abstract </summary> 
 
@@ -25,9 +23,8 @@ permalink: /research/
 
 </details>
 
-## Publications
-
-### <a href='https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub'>The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market</a>
+### Publications
+<a href='https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub'>**The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market**,</a>
 *Energy Policy,* vol. 158, 2021
 
 <details>
