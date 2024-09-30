@@ -11,7 +11,7 @@ I am a fifth-year PhD Candidate in Economics at <a href="https://portal.research
 
 I have a master's degree in Economics and dual bachelor's degrees in Environmental Sciences and Political Sciences, with majors in Economics.
 
-I am on the job market in 2024-2025. 
+I am on the job market in 2024 - 2025. 
 
 
 
