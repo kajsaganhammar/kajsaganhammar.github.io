@@ -5,9 +5,9 @@ permalink: /teaching/
 ---
 
 ### Graduate level 
-• Advanced Microeconomic Analysis, 2022 - present
+• T.A. Advanced Microeconomic Analysis (Autumn 2022, 2023, 2024)
 
 ### Undergraduate level
-• Basic Macroeconomics, 2021 - present
+• T.A. Basic Macroeconomics (Autumn & Spring 2021, 2022, 2023, 2024)
 <br>
-• Basic Microeconomics, 2021 - 2023
+• T.A. Basic Microeconomics (Autumn & Spring 2021, 2022; Autumn 2023)
