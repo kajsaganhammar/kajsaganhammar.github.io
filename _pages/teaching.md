@@ -5,9 +5,9 @@ permalink: /teaching/
 ---
 
 ### Graduate level 
-• Advanced Microeconomic Analysis, Teaching Assistant (Autumn 2022 - 2024)
+• Advanced Microeconomic Analysis, Teaching Assistant (Autumn 2022 - present)
 
 ### Undergraduate level
-• Basic Macroeconomics, Teaching Assistant (Autumn/Spring 2021 - 2024)
+• Basic Macroeconomics, Teaching Assistant (Autumn/Spring 2021 - present)
 <br>
 • T.A. Basic Microeconomics, Teaching Assistant (Autumn/Spring 2021 -  Autumn 2023)
