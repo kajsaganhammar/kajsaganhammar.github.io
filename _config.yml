@@ -10,8 +10,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "KG.JPG"
-  name             : <div class="center-text"> <p>"Kajsa Ganhammar"</p></div>
-  bio              : <div class="center-text"> <p>"PhD Candidate in Economics at Lund University, Sweden"</p></div>
+  name             : "Kajsa Ganhammar"
+  bio              : "PhD Candidate in Economics"
   email            : "kajsa.ganhammar@nek.lu.se" 
 
   # Academic websites
