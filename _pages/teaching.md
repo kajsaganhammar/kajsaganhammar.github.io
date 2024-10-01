@@ -10,4 +10,4 @@ permalink: /teaching/
 ### Undergraduate level
 • Basic Macroeconomics, Teaching Assistant (Autumn/Spring 2021 - Present)
 <br>
-• T.A. Basic Microeconomics, Teaching Assistant (Autumn/Spring 2021 -  Autumn 2023)
+• Basic Microeconomics, Teaching Assistant (Autumn/Spring 2021 -  Autumn 2023)
