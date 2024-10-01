@@ -27,11 +27,5 @@ p {
     color: #0b7285; 
 }
 
- .author__avatar img {
-    max-width: 400px;  /* Change the size as needed */
-    max-height: 300px;
-        display:block;
-        width: auto;
-        height: auto
-    }
+
 
