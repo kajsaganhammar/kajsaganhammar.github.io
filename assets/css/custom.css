@@ -10,3 +10,7 @@
 .custom-link {
     text-decoration: none !important; /* Removes the underline from links */
 }
+
+p {
+    margin-bottom: 0.5em; /* Reduces spacing between paragraphs */
+}
