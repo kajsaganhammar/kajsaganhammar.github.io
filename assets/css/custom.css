@@ -26,3 +26,9 @@ p {
 .masthead{
     color: #0b7285; 
 }
+
+.author__avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 0; /* Removes the circular shape */
+}
