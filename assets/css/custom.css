@@ -18,3 +18,7 @@ p {
 .page__title {
     color: #0b7285; /* Change to desired color for <h1> headers */
 }
+
+.center-text {
+  text-align: center;
+}
