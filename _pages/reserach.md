@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 ---
 
-## Work in progress 
+### Work in progress 
 **•** <a href="https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link" class="custom-link">**Bidding behaviour in interdependent markets for electricity and green certificates** </a> [Job Market Paper] <br> Revise & Resubmit: *Energy Economics*
 
 <details>
@@ -20,7 +20,7 @@ permalink: /research/
  <small>Despite empirical evidence of price dispersion, there is limited research on the role of search frictions in competing auction markets. This paper incorporates search into a stylised model where two sellers post auctions to sell a homogeneous good. Buyers are aware of the location of one of the sellers and can choose to engage in costly search to locate the other before the auctions take place. I find that such friction leads to price dispersion because only buyers with valuations above a certain threshold are willing to engage in costly search. A simulation study also shows that those that search and win the 'low-visibility' auction are better off than the non-searchers that win the 'high-visibility' auction. However, on aggregate, when including those for which search does not pay off ex-post (i.e, they lose the auction), searching buyers are the losers. This demonstrates the welfare losses associated with search frictions in sealed-bid auction markets. Furthermore, due to buyers inability to coordinate their search decisions, the only equilibrium involves buyers above the threshold randomising between auctions, which makes an inefficient market outcome probable.</small> 
 </details>
 
-## Publications
+### Publications
 **•** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">**The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market**</a> <br> *Energy Policy,* vol. 158, 2021
 
 <details>
