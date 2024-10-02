@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 ---
 
 ### Work in progress 
-**•** <a href="https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link" class="custom-link">**Bidding behaviour in interdependent markets for electricity and green certificates** </a> [Job Market Paper] <br> Revise & Resubmit: *Energy Economics*
+**•** <a href="https://drive.google.com/file/d/1FZnEn2RpFCZptss8Le-9Uh9JIzkHAm2k/view?usp=drive_link" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> [Job Market Paper] <br> Revise & Resubmit: *Energy Economics*
 
 <details>
   <summary> Abstract </summary> 
@@ -13,7 +13,7 @@ permalink: /research/
  <small>Market-based climate policies have received increased attention, making it important to understand how such politically created markets affect competition in the electricity market. This paper focuses on the green certificate policy which financially supports producers of renewably sourced electricity by means of tradable certificates, and develops a simple duopoly model that incorporates both the electricity and the green certificate markets in an auction-based setting. The results suggest that, in case the subsidised technology has a higher expected marginal cost than the conventional technology, the policy can improve competition and efficiency in the electricity market. Conversely, if producers are ex-ante symmetric in their marginal costs, the advantage the policy creates enables the subsidised producer to bid higher at given cost as the probability of winning the electricity auction increases. This is harmful for competition and results in high consumer prices of electricity.</small>
 </details>
 
-**• Search frictions in markets where sellers offer sealed-bid auctions** <br>*(draft coming soon)*
+**•** Search frictions in markets where sellers offer sealed-bid auctions <br>*(draft coming soon)*
 <details>
   <summary> Abstract </summary> 
 
@@ -21,7 +21,7 @@ permalink: /research/
 </details>
 
 ### Publications
-**•** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">**The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market**</a> <br> *Energy Policy,* vol. 158, 2021
+**•** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market</a> <br> *Energy Policy,* vol. 158, 2021
 
 <details>
   <summary> Abstract </summary> 
