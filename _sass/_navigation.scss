@@ -201,7 +201,14 @@
     cursor: pointer;
     z-index: 100;
   }
+.greedy-nav ul {
+    display: flex;
+    justify-content: flex-end; /* Push the navigation items to the right */
+}
 
+.greedy-nav li {
+    margin-left: 20px; /* Space between items */
+}
   .visible-links {
     display: table;
 
