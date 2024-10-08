@@ -6,7 +6,7 @@
 
 main:
 - title: "Home"
-    url: "/"
+    url: /https://kajsaganhammar.se/
 
   - title: "Research"
     url: /research/
