@@ -28,5 +28,9 @@ summary {
     font-weight: normal; /* This will ensure it is not bold by default */
 }
 
+.custom-small {
+    font-size: 90%;  /* Example: slightly larger than small but smaller than default */
+}
+
 
 
