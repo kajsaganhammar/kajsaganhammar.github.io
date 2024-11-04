@@ -24,7 +24,7 @@ p {
 }
 
 summary {
-    font-size: 0.9em; /* Adjust the size to match other text */
+    font-size: 1em; /* Adjust the size to match other text */
     font-weight: normal; /* This will ensure it is not bold by default */
 }
 
