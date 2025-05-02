@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Work in progress 
-**•** <a href="https://drive.google.com/file/d/1JkAri-HG9SyEXK2MISroKKiy4gmh3sLW/view?usp=sharing" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> Resubmitted to *Energy Economics*
+**•** <a href="https://drive.google.com/file/d/1JkAri-HG9SyEXK2MISroKKiy4gmh3sLW/view?usp=sharing" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> Minor revise at *Energy Economics*
 
 <details>
   <summary> Abstract </summary> 
@@ -17,7 +17,7 @@ permalink: /research/
 <details>
   <summary> Abstract </summary> 
 
- <span class="custom-small">Despite empirical evidence of price dispersion, there is limited research on the role of search frictions in competing auction markets. This paper incorporates search into a stylised model where two sellers post sealed-bid auctions to sell a homogeneous good. Buyers are aware of the location of one of the sellers and can choose to engage in costly search to locate the other before the auctions take place. I find that such friction leads to price dispersion because only buyers with valuations above a certain threshold are willing to engage in costly search; A simulation study shows that those who search and win the 'low-visibility' auction are better off than the non-searchers who win the 'high-visibility' auction. However, in aggregate, when including those for whom search does not pay off ex-post (i.e., they lose the auction), searching buyers are the losers. This demonstrates the welfare losses associated with search frictions in auction markets. Furthermore, due to buyers' inability to coordinate their search decisions, the only equilibrium involves buyers above the threshold randomising between which auction to attend. This can result in a low degree of efficiency, in terms of which buyers obtain the goods, especially when the search cost is high.</span> 
+ <span class="custom-small">Despite empirical evidence of price dispersion, there is limited research on the role of search frictions in competing auction markets. This paper incorporates search into a stylised model where two sellers post sealed-bid auctions to sell a homogeneous good. Buyers are aware of the location of one of the sellers and can choose to engage in costly search to locate the other before the auctions start. I find that such friction leads to price dispersion because only buyers with valuations above a certain threshold may engage in costly search. In particular, due to the inability to coordinate participation between auctions, the only equilibrium involves these buyer-types randomising between searching or not. The expected price in the 'low-visibility' auction must therefore be lower than in the 'high-visibility' auction to compensate for the search cost and sustain their indifference. Based on a large number of simulations of the model predictions, I also find that search costs result in ex post welfare losses by reducing aggregate consumer surplus and efficiency.</span> 
 </details>
 
 ### Publications
