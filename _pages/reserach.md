@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Work in progress 
-**•** <a href="https://drive.google.com/file/d/1JkAri-HG9SyEXK2MISroKKiy4gmh3sLW/view?usp=sharing" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> Resubmitted to *Energy Economics*
+**•** Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> *Energy Economics*, forthcoming
 
 <details>
   <summary> Abstract </summary> 
