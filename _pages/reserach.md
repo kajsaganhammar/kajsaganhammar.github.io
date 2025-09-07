@@ -22,7 +22,7 @@ permalink: /research/
 Employing a real options approach, the study further proceeds to demonstrate that price risk increases the threshold for immediate development of Swedish wind power projects; a one standard deviation increase in certificate price volatility is estimated to reduce the probability of project development by 12%. These findings illustrate that regulatory uncertainty in terms of high price volatility disrupts the investment climate in certificate markets, ultimately affecting cost-effectiveness of such policy.</span>
 </details>
 
-**•** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> *Energy Economics*, vol. 150, 2025
+**•** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988325006760" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> *Energy Economics*, vol. 150, 2025
 
 <details>
   <summary> Abstract </summary> 
