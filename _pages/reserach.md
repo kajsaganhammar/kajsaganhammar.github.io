@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Work in progress 
-**•** Search frictions in competing sealed-bid auction markets *(draft available upon request)*
+**•** <a href="https://drive.google.com/file/d/1fORMXEK0TKWFKixRA4ryJcNA1jxcg8kW/view?usp=sharing" class="custom-link">Search frictions in competing sealed-bid auction markets</a> 
 <details>
   <summary> Abstract </summary> 
 
