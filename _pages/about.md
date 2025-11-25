@@ -1,10 +1,10 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
----
+# ---
+# permalink: /
+# title: "About me"
+# author_profile: true
+# redirect_from: 
+#   - /about/
+# ---
 
 Hi, I'm Kajsa! 
 
