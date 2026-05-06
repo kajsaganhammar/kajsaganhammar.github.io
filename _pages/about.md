@@ -54,7 +54,7 @@ As more trade moves online, competing auctions have become increasingly common i
     <b>Links:</b> <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub">Published paper</a>
   </div>
 
-  <div style="flex: 0 0 180px;">
+ <div style="flex: 0 0 260px;">
     <img src="images/bid curves_paper2.png" style="width: 220px; border-radius: 6px;">
   </div>
 
