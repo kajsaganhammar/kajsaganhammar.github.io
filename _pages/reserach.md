@@ -4,28 +4,26 @@ title: "Projects"
 permalink: /projects/
 ---
 
-### Work in progress 
-**•** <a href="https://drive.google.com/file/d/1fORMXEK0TKWFKixRA4ryJcNA1jxcg8kW/view?usp=sharing" class="custom-link">Search frictions in competing sealed-bid auction markets</a> 
-<details>
-  <summary> Abstract </summary> 
 
- <span class="custom-small">Despite empirical evidence of price dispersion, there is limited research on the role of search frictions in competing auction markets. This paper incorporates search into a stylised model where two sellers post sealed-bid auctions to sell a homogeneous good. Buyers are aware of the location of one of the sellers and can choose to engage in costly search to locate the other before the auctions start. I find that such friction leads to price dispersion because only buyers with valuations above a certain threshold may engage in costly search. In particular, due to the inability to coordinate participation between auctions, the only equilibrium involves these buyer-types randomising between searching or not. The expected price in the 'low-visibility' auction must therefore be lower than in the 'high-visibility' auction to compensate for the search cost and sustain their indifference. Based on a large number of simulations of the model predictions, I also find that search costs result in ex post welfare losses by reducing aggregate consumer surplus and efficiency.</span> 
-</details>
 
-### Publications
-**•** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market</a> <br> *Energy Policy,* vol. 158, 2021
+<h3 style="color:#666;">Research & Applications</h3>
+<hr style="border: none; height: 1px; background-color: #666;">
 
-<details>
-  <summary> Abstract </summary> 
+**The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market (*Energy Policy, 2021*)** <br>
+In this project, I analyse the effects of regulatory uncertainty in markets for renewable energy certificates using data from the Swedish–Norwegian market. I find strong evidence that regulatory changes and political deliberations increase price volatility, thereby raising uncertainty about future revenues from renewable energy projects. Higher volatility, in turn, negatively affects the investment climate, delaying the development of Swedish wind power projects by 12%. These results suggest that regulatory uncertainty can weaken the cost-effectiveness of market-based climate policies by making conditions less predictable for investors. 
 
-<span class="custom-small">European Commission favours market-based support policies, such as markets for tradable green certificates, to promote renewable energy. Meanwhile, these instruments have received critique for exposing investors to large price risk as the level of support is determined by the market price of certificates. Using a two-step procedure, this study builds upon the work of Fagiani and Hakvoort (2014) by firstly examining how regulatory interventions in the Swedish-Norwegian certificate market affect price volatility, focusing particularly on the period after Norway joined in 2012. The results show that interventions in the market exacerbate price risk by resulting in regimes of increased volatility. They indicate that, contrary to policymakers expectation, prices did not stabilise after the market integration with Norway. 
-Employing a real options approach, the study further proceeds to demonstrate that price risk increases the threshold for immediate development of Swedish wind power projects; a one standard deviation increase in certificate price volatility is estimated to reduce the probability of project development by 12%. These findings illustrate that regulatory uncertainty in terms of high price volatility disrupts the investment climate in certificate markets, ultimately affecting cost-effectiveness of such policy.</span>
-</details>
+**Methods used:** Data analysis & statistical modelling (ARMA/GARCH, structural breaks, hazard models) • Investment analysis (real options valuation, risk modelling) <br>
+**Links:** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">Published paper</a>
 
-**•** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988325006760" class="custom-link">Bidding behaviour in interdependent markets for electricity and green certificates</a> <br> *Energy Economics*, vol. 150, 2025
+**Bidding behaviour in interdependent markets for electricity and green certificates (*Energy Economics, 2025*)** <br>
+Understanding how subsidies for renewable energy affect pricing in electricity markets is important for evaluating their full costs and benefits. In this project, I use an economic model to study how tradable green certificate subsidies influence competition between dominant producers with market power. I find that when a subsidised producer has a higher generation cost than a conventional one, the subsidy improves competition and market efficiency. When they have similar costs, the subsidy instead gives the subsidised producer a strategic advantage, allowing higher profit margins. This weakens both competition and equity between producers and consumers, as consumer prices reflect both wholesale electricity and certificate prices.
 
-<details>
-  <summary> Abstract </summary> 
+**Methods used:** Applied auction & game theory • Economic modelling of trading strategies • Numerical analysis <br>
+**Links:** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988325006760" class="custom-link">Published paper</a>
 
- <span class="custom-small">Market-based climate policies have received increased attention, making it important to understand how they affect competition in the electricity market. This paper focuses on the green certificate policy which financially supports producers of renewably sourced electricity by means of tradable certificates, and develops a duopoly model that incorporates both the electricity and the green certificate markets in an auction-based setting. Producers are privately informed about their generation costs, and the results suggest that whether or not they are drawn from the same distribution has important implications for market outcomes. In particular, if the subsidised technology has a higher expected marginal cost than the conventional one (e.g., one bio-fuelled and one fossil-fuelled technology), the certificate policy can improve competition and efficiency in the electricity market. Conversely, if producers have the same expected marginal cost (e.g., one mature, non-subsidised and one emerging renewable technology), the advantage the policy creates enables the subsidised producer to bid higher at given cost as the probability of winning the electricity auction increases. This undermines competition and results in high consumer prices of electricity.</span>
-</details>
+**Search frictions in competing sealed-bid auction markets** <br>
+As more trade moves online, competing auctions have become increasingly common in decentralised markets. Despite empirical evidence of identical goods being sold at different prices in competing auctions, there is limited research on the role of search frictions in such markets. In this project, I use economic modelling and Monte Carlo simulations to show that search costs could explain these observed price differences: when it is costly for buyers to find alternative sellers, only buyers who value the good sufficiently highly choose to search, leading to an uneven distribution of buyer types across auctions. Price dispersion not only creates winners and losers, but also makes it harder for market participants to assess the true value of a good.
+
+**Methods used:** Data analysis (simulation-based) • Applied auction theory • Economic modelling of search behaviour <br>
+**Links:** <a href="https://drive.google.com/file/d/1fORMXEK0TKWFKixRA4ryJcNA1jxcg8kW/view?usp=sharing" class="custom-link">Working paper</a>
+
