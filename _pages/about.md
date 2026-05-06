@@ -60,7 +60,49 @@ As more trade moves online, competing auctions have become increasingly common i
 
 </div>
 
+#########
 
+<div style="display: flex;">
+
+  <!-- LEFT SIDEBAR -->
+  <div style="width: 260px; position: sticky; top: 20px; align-self: flex-start;">
+    
+    <img src="images/KG.JPG" style="width: 100%; border-radius: 6px;">
+    
+    <p>Contact info...</p>
+
+    <hr>
+
+    <!-- PAPER FIGURE 1 -->
+    <img src="fig1.png" style="width: 100%; margin-bottom: 12px; border-radius: 6px;">
+
+    <!-- PAPER FIGURE 2 -->
+    <img src="fig2.png" style="width: 100%; margin-bottom: 12px; border-radius: 6px;">
+
+    <!-- PAPER FIGURE 3 -->
+    <img src="fig3.png" style="width: 100%; border-radius: 6px;">
+
+  </div>
+
+  <!-- RIGHT CONTENT -->
+  <div style="flex: 1; padding-left: 24px;">
+
+<h3 style="color:#666;">About</h3>
+<hr style="border: none; height: 1px; background-color: #666;">
+
+Hi, I’m Kajsa!
+
+I am an analyst with a PhD in Economics from Lund University. I have strong experience using data and quantitative modelling techniques to study how risk and uncertainty, policy, and market conditions shape behaviour and outcomes, with a focus on applications in financial and physical electricity markets. Much of my work has been published in high-impact peer-reviewed journals, contributing insights and recommendations to inform policy and decision-making.
+
+    <h3>Research & Applications</h3>
+
+    <p>Paper 1 text...</p>
+    <p>Paper 2 text...</p>
+    <p>Paper 3 text...</p>
+
+  </div>
+
+</div>
 
 
 
