@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Projects"
+permalink: /projects/
 ---
 
 ### Work in progress 
