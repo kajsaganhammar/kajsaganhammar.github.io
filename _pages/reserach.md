@@ -41,7 +41,7 @@ As more trade moves online, competing auctions have become increasingly common i
   </div>
 
   <div style="flex: 0 0 180px;">
-    <img src="images/bid curves_paper2.png" style="width: 100%; border-radius: 6px;">
+    <img src="./images/bid curves_paper2.png" style="width: 100%; border-radius: 6px;">
   </div>
 
 </div>
