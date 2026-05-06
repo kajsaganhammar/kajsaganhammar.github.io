@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
 ---
@@ -43,66 +43,6 @@ As more trade moves online, competing auctions have become increasingly common i
 
 
 
-<div style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 24px;">
-
-  <div style="flex: 1;">
-    <b>The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market (Energy Policy, 2021)</b><br><br>
-
-    In this project, I analyse the effects of regulatory uncertainty in markets for renewable energy certificates using data from the Swedish–Norwegian market. I find strong evidence that regulatory changes and political deliberations increase price volatility, thereby raising uncertainty about future revenues from renewable energy projects. Higher volatility, in turn, negatively affects the investment climate, delaying the development of Swedish wind power projects by 12%. These results suggest that regulatory uncertainty can weaken the cost-effectiveness of market-based climate policies by making conditions less predictable for investors.<br><br>
-
-    <b>Methods used:</b> Data analysis & statistical modelling (ARMA/GARCH, structural breaks, hazard models) • Investment analysis (real options valuation, risk modelling)<br>
-    <b>Links:</b> <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub">Published paper</a>
-  </div>
-
-  <div style="flex-shrink: 0; width: 260px;">
-    <img src="images/bid curves_paper2.png" style="width: 260px; border-radius: 6px;">
-  </div>
-
-</div>
-
-#########
-
-<div style="display: flex;">
-
-  <!-- LEFT SIDEBAR -->
-  <div style="width: 260px; position: sticky; top: 20px; align-self: flex-start;">
-    
-    <img src="images/KG.JPG" style="width: 100%; border-radius: 6px;">
-    
-    <p>Contact info...</p>
-
-    <hr>
-
-    <!-- PAPER FIGURE 1 -->
-    <img src="fig1.png" style="width: 100%; margin-bottom: 12px; border-radius: 6px;">
-
-    <!-- PAPER FIGURE 2 -->
-    <img src="fig2.png" style="width: 100%; margin-bottom: 12px; border-radius: 6px;">
-
-    <!-- PAPER FIGURE 3 -->
-    <img src="fig3.png" style="width: 100%; border-radius: 6px;">
-
-  </div>
-
-  <!-- RIGHT CONTENT -->
-  <div style="flex: 1; padding-left: 24px;">
-
-<h3 style="color:#666;">About</h3>
-<hr style="border: none; height: 1px; background-color: #666;">
-
-Hi, I’m Kajsa!
-
-I am an analyst with a PhD in Economics from Lund University. I have strong experience using data and quantitative modelling techniques to study how risk and uncertainty, policy, and market conditions shape behaviour and outcomes, with a focus on applications in financial and physical electricity markets. Much of my work has been published in high-impact peer-reviewed journals, contributing insights and recommendations to inform policy and decision-making.
-
-    <h3>Research & Applications</h3>
-
-    <p>Paper 1 text...</p>
-    <p>Paper 2 text...</p>
-    <p>Paper 3 text...</p>
-
-  </div>
-
-</div>
 
 
 
