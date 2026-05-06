@@ -43,7 +43,22 @@ As more trade moves online, competing auctions have become increasingly common i
 
 
 
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 20px;">
 
+  <div style="flex: 1;">
+    **Bidding behaviour in interdependent markets for electricity and green certificates (*Energy Economics, 2025*)** <br>
+
+   Understanding how subsidies for renewable energy affect pricing in electricity markets is important for evaluating their full costs and benefits. In this project, I use an economic model to study how tradable green certificate subsidies influence competition between dominant producers with market power. I find that when a subsidised producer has a higher generation cost than a conventional one, the subsidy improves competition and market efficiency. When they have similar costs, the subsidy instead gives the subsidised producer a strategic advantage, allowing higher profit margins. This weakens both competition and equity between producers and consumers, as consumer prices reflect both wholesale electricity and certificate prices.
+
+    **Methods used:** Data analysis (simulation-based) • Applied auction theory • Economic modelling of search behaviour <br>
+**Links:** <a href="https://drive.google.com/file/d/1fORMXEK0TKWFKixRA4ryJcNA1jxcg8kW/view?usp=sharing" class="custom-link">Working paper</a>
+  </div>
+
+  <div style="flex: 0 0 180px;">
+    <img src="images/bid curves_paper2.png" style="width: 100%; border-radius: 6px;">
+  </div>
+
+</div>
 
 
 
