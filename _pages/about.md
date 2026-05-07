@@ -30,7 +30,7 @@ In this project, I analyse the effects of regulatory uncertainty in markets for 
 **Links:** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">Published paper</a>
 
 **Bidding behaviour in interdependent markets for electricity and green certificates (*Energy Economics, 2025*)** <br>
-Understanding how subsidies for renewable energy affect competition in electricity markets is important for evaluating their full costs and benefits. In this project, I use an economic model to study how green certificate subsidies influence bidding behaviour between dominant producers with market power. I find that when a subsidised producer has a higher generation cost than a conventional one, the subsidy improves competition and market efficiency. When they have similar costs, the subsidy instead gives the subsidised producer a strategic advantage, allowing higher profit margins. This weakens competition as well as equity between producers and consumers, as consumer prices reflect both wholesale electricity and certificate prices.
+Understanding how subsidies for renewable energy affect competition in electricity markets is important for evaluating their full costs and benefits. In this project, I use an economic model to study how green certificate subsidies influence bidding behaviour in markets with dominant producers with market power. I find that when a subsidised producer has a higher expected generation cost than a conventional one, the subsidy improves competition and market efficiency. When they have similar costs, the subsidy instead gives the subsidised producer a strategic advantage, allowing higher profit margins. This weakens competition as well as equity between producers and consumers, as consumer prices reflect both wholesale electricity and certificate prices.
 
 **Methods used:** Applied auction & game theory • Economic modelling of trading strategies • Numerical analysis <br>
 **Links:** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988325006760" class="custom-link">Published paper</a>
@@ -53,7 +53,7 @@ As more trade moves online, competing auctions have become increasingly common i
 *Methods used:* Data analysis & time series modelling (multivariate ARMA/GARCH) • Simulations • Scenario analysis • Value-at-risk. <a href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9031201&fileOId=9031202" class="custom-link">(Link to thesis)</a>. 
 
 **BSc Environmental Economics, University of Gothenburg**<br>
-• Bachelor's thesis in colloboration with IVL Swedish Environmental Reserach Institute, contributing to a policy brief <a href="https://www.nordicenergy.org/app/uploads/2019/11/supergreenrebate_web.pdf" class="custom-link">(link)</a>. 
+• Bachelor's thesis in collaboration with IVL Swedish Environmental Reserach Institute, contributing to a policy brief <a href="https://www.nordicenergy.org/app/uploads/2019/11/supergreenrebate_web.pdf" class="custom-link">(link)</a>. 
 
 
 
