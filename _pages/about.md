@@ -15,7 +15,7 @@ I am an analyst with a PhD in Economics from Lund University. I have strong expe
 <h3 style="color:#666;">Methods & Tools </h3>
 <hr style="border: none; height: 1px; background-color: #666;">
 
-**Methods:** Data analysis • Statistical & Mathematical modelling • Causal inference • Simulations • Financial risk evaluation • Auctions <br>
+**Methods:** Data analysis • Statistical & Mathematical modelling • Causal inference • Simulations • Financial risk evaluation • Market design <br>
 **Programming:** R • Python • SQL • Matlab <br>
 **Analysis & Reporting:** Jupyter notebooks • Excel • Power BI • LaTeX 
 
@@ -42,6 +42,17 @@ As more trade moves online, competing auctions have become increasingly common i
 **Links:** <a href="https://drive.google.com/file/d/1fORMXEK0TKWFKixRA4ryJcNA1jxcg8kW/view?usp=sharing" class="custom-link">Working paper</a>
 
 
+<h3 style="color:#666;">Education</h3>
+<hr style="border: none; height: 1px; background-color: #666;">
+
+**PhD Economics, Lund University** <br>
+Awarded Lund University School of Economics prize for best doctoral dissertation in 2025. 
+
+**MSc Economics, Lund University** <br>
+Master's thesis:  
+
+**BSc Environmental Economics, Gothenburg University**<br>
+Bachelor's thesis in colloboration with IVL Swedish Environmental Reserach Institute, contributing to a policy brief <a href="https://www.nordicenergy.org/app/uploads/2019/11/supergreenrebate_web.pdf" class="custom-link">(link)</a>. 
 
 
 
