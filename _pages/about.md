@@ -52,7 +52,7 @@ As more trade moves online, competing auctions have become increasingly common i
 • Master's thesis: Forecasted how market shocks propagate across interconnected energy markets, providing insights for risk and profitability assessments of project portfolios. <br>
 *Methods used:* Data analysis & time series modelling (multivariate ARMA/GARCH) • Simulations • Scenario analysis • Value-at-risk. <a href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9031201&fileOId=9031202" class="custom-link">(Link to thesis)</a>. 
 
-**BSc Environmental Economics, Gothenburg University**<br>
+**BSc Environmental Economics, University of Gothenburg**<br>
 • Bachelor's thesis in colloboration with IVL Swedish Environmental Reserach Institute, contributing to a policy brief <a href="https://www.nordicenergy.org/app/uploads/2019/11/supergreenrebate_web.pdf" class="custom-link">(link)</a>. 
 
 
