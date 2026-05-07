@@ -15,7 +15,7 @@ I am an analyst with a PhD in Economics from Lund University. I have strong expe
 <h3 style="color:#666;">Methods & Tools </h3>
 <hr style="border: none; height: 1px; background-color: #666;">
 
-**Methods:** Data analysis • Statistical & Mathematical modelling • Causal inference • Simulations • Financial risk evaluation • Market design <br>
+**Methods:** Data analysis • Statistical & Mathematical modelling • Time series modelling • Causal inference • Simulations • Financial risk evaluation • Market design <br>
 **Programming:** R • Python • SQL • Matlab <br>
 **Analysis & Reporting:** Jupyter notebooks • Excel • Power BI • LaTeX 
 
@@ -49,8 +49,8 @@ As more trade moves online, competing auctions have become increasingly common i
 • Awarded Lund University School of Economics prize for best doctoral dissertation in 2025. 
 
 **MSc Economics, Lund University** <br>
-• Master's thesis: Forecasted the propogation of market shocks across interconnected energy markets, offering insights for risk and profitability assessments of project portfolios. <br>
-Methods used: Data analysis & time series modelling (multivariate ARMA/GARCH) • Simulations • Risk modelling (value-at-risk). <a href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9031201&fileOId=9031202" class="custom-link">(Link to thesis)</a>. 
+• Master's thesis: Forecasted how market shocks propagate across interconnected energy markets, providing insights for project portfolio risk and profitability assessments. <br>
+Methods used: Data analysis & time series modelling (multivariate ARMA/GARCH) • Simulations • Scenario analysis • Risk modelling (value-at-risk). <a href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9031201&fileOId=9031202" class="custom-link">(Link to thesis)</a>. 
 
 **BSc Environmental Economics, Gothenburg University**<br>
 • Bachelor's thesis in colloboration with IVL Swedish Environmental Reserach Institute, contributing to a policy brief <a href="https://www.nordicenergy.org/app/uploads/2019/11/supergreenrebate_web.pdf" class="custom-link">(link)</a>. 
