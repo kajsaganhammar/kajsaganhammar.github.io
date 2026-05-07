@@ -49,7 +49,7 @@ As more trade moves online, competing auctions have become increasingly common i
 • Awarded the Lund University School of Economics prize for best doctoral dissertation in 2025. 
 
 **MSc Economics, Lund University** <br>
-• Master's thesis: Forecasted how market shocks propagate across interconnected energy markets, providing insights for project portfolio risk and profitability assessments. <br>
+• Master's thesis: Forecasted how market shocks propagate across interconnected energy markets, providing insights for risk and profitability assessments of project portfolios. <br>
 *Methods used:* Data analysis & time series modelling (multivariate ARMA/GARCH) • Simulations • Scenario analysis • Value-at-risk. <a href="https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9031201&fileOId=9031202" class="custom-link">(Link to thesis)</a>. 
 
 **BSc Environmental Economics, Gothenburg University**<br>
