@@ -26,7 +26,7 @@ I am an analyst with a PhD in Economics from Lund University. I have strong expe
 **The effect of regulatory uncertainty in green certificate markets: Evidence from the Swedish-Norwegian market (*Energy Policy, 2021*)** <br>
 In this project, I analyse the effects of regulatory uncertainty in markets for renewable energy certificates using data from the Swedish–Norwegian market. I find strong evidence that regulatory changes and political deliberations increase price volatility, thereby raising uncertainty about future revenues from renewable energy projects. Higher volatility, in turn, negatively affects the investment climate, delaying development of Swedish wind power projects by 12%. These results suggest that regulatory uncertainty can weaken the cost-effectiveness of market-based climate policies by making conditions less predictable for investors. 
 
-**Methods used:** Data analysis & statistical modelling (ARMA/GARCH, structural breaks, hazard models) • Investment analysis (real options valuation, risk modelling) <br>
+**Methods used:** Data analysis & statistical modelling (ARMA/GARCH, structural breaks, hazard models) • Real options valuation <br>
 **Links:** <a href="https://www.sciencedirect.com/science/article/pii/S0301421521004535?via%3Dihub" class="custom-link">Published paper</a>
 
 **Bidding behaviour in interdependent markets for electricity and green certificates (*Energy Economics, 2025*)** <br>
